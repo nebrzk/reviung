@@ -30,7 +30,7 @@
                 lower_layer {
 // ----------------------------------------------------------------------------------
 // |TAB |  !  |  @  |  #  |  $  |  %  |   |  ^  |  &  |  *  |  (  |  )  |    DEL    |
-// | VOLU |  _  |  +  |  {  |  }  | "|" |   | LFT | DWN |  UP | RGT |  `  |     ~     |
+// | VOLUP |  _  |  +  |  {  |  }  | "|" |   | LFT | DWN |  UP | RGT |  `  |     ~     |
 // | VOLD | ESC | GUI | ALT | CAPS|  "  |   | HOME| END | PGUP| PGDN| PRSC| SHFT(RET) |
 //                       |     |     | RET | ADJ |     |
                         bindings = <
